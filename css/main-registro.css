@@ -1,0 +1,48 @@
+/*css/main.css*/
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+
+}
+
+header {
+  height: 50px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+
+}
+
+section#contenido {
+  background-color: #ddd;
+  color: #222;
+  height: 300px;
+  padding-top: 1px;
+
+}
+  #registro {
+    width: 120px; /* 960px, 1366px */
+    height: 100px;
+    padding: 15px;
+    margin: 0px auto; /*centrar*/
+    margin-top: 100px;
+    text-align: center;
+    border: 3px solid #444;
+    color: #fff;
+    background-color: #555;
+    -webkit-border-radius: 7px;
+    -o-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    border-radius: 7px;
+}
+
+footer {
+  height: 30px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}

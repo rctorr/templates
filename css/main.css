@@ -1,0 +1,78 @@
+/* css/main.css */
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+header {
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+section#contenido {
+    padding-top: 1px;
+    background-color: #ddd;
+    color: #222;
+    height: 300px; /* temporal */
+}
+
+/*///////////////////////////////////////*/
+/* 				login 		   		*/
+/*///////////////////////////////////////*/
+div#login {
+    height: 150px;
+    width: 200px;
+    margin: 75px auto;
+    background-color: gray;
+}
+
+/*/////////////////////////////////////////
+-----------------inicio ------------------
+/////////////////////////////////////////*/
+
+div#inicio {
+    background-color: aqua;
+    color: #79065a;
+    text-align: center;
+    width: 450px;
+    height: 180px;
+
+    margin: 2% auto;
+    border: 3px solid #222;
+    border-radius: 5px;
+    box-shadow:inset  0px 0px 30px #000;
+}
+/*/////////////////////////////////////////
+-------------termina inicio ------------------
+/////////////////////////////////////////*/
+
+#producto{
+    background-color:#fff;
+    text-align: center;
+    margin: 0px auto;
+    width: 300px;
+    height: 200px;
+}
+
+/*///////////////////////////////////////*/
+/* 				contacto		   		*/
+/*///////////////////////////////////////*/
+#contacto{
+    height: 100px;
+    width: 200px;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+}
+
+footer {
+    height: 30px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
